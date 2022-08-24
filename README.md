@@ -9,8 +9,10 @@ Hi I'm Beatriz Murta
   <img height="180em" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizmurta&layout=compact&langs_count=7&theme=slateorange"/>
 </div>
 
-<img align="left" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
-
+ 
+  <div align="center" style="display: inline_block"><br>
+  <img align="center" alt="Java" height="30" width="70" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">
+   
 
 ## <br /> Connect with me
 
