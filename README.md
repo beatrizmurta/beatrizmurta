@@ -14,7 +14,7 @@ Hi I'm Beatriz Murta
   <img align="center" alt="Java" height="30" width="70" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">
   <img align="center" alt="CSS" height="30" width="70" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
   <img align="center" alt="HTML" height="30" width="70" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
-  <img align="center" alt="JavaScript" height="30" width="70" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+  <img align="center" alt="JavaScript" height="38" width="70" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
 
 ## <br /> Connect with me
 
